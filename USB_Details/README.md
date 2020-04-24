@@ -11,7 +11,7 @@ The latest version can be obtained from
 http://www.linux-usb.org/usb.ids
 
 ### JSON Converter Script
-Maintained by Synthanee H. Humbert <synth.dev.design@hotmail.com>
+Maintained by Synthanee H. Humbert
 
 ```json
 {
